@@ -9,7 +9,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ─── НАСТРОЙКИ (берутся из переменных окружения Railway) ──────────────────────
-BOT_TOKEN        = "8763681922:AAFR_L2AnOnXjlj_SIIloSxuCh2py3BZIl8"                        # обязательно
+BOT_TOKEN        = "8882001824:AAFHkW9zjchXDJG9EE9Bb5y6xnncVw_38W4"                        # обязательно
 MANAGER_CHAT_ID  = "1378269466"         # необязательно
 # ──────────────────────────────────────────────────────────────────────────────
 
